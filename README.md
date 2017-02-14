@@ -1,6 +1,7 @@
 # SJP
 
-[2 linners blurb abour SJP]
+2 linners blurb abour SJP
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 gh-pages branch
 
