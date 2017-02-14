@@ -15,4 +15,8 @@ Site files are stored in the **gh-pages** branch.
 
 [Release Notes](http://oracle.com) - [Download](http://oracle.com)
 
+## Feb 8th, 2016 - Public Draft review started
+
+See the Publilc Draft [here](http://oracle.com).
+
 
