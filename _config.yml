@@ -7,6 +7,7 @@ description: [Dummy test project]
 show_downloads: false
 
 links:
-  a: lien1
-  b: lien2
+  download: http://glassfish.org/download
+  mailinglist: http://groups.io
+  doc: 
 
