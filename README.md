@@ -7,7 +7,7 @@ Site files are stored in the **gh-pages** branch.
 
 # News
 
-## Jan 6th, 2017 - Mojarra 1.2.8-219 released ## 
+## Jan 6th, 2017 - Mojarra 1.2.8-219 released ##
 
 [Release Notes](http://oracle.com) - [Download](http://oracle.com)
 
