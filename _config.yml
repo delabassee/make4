@@ -3,5 +3,5 @@ theme: jekyll-theme-architect
 title: [Simple Java Project]
 description: [Dummy test project]
 
-show_downloads: true
+show_downloads: false
 
