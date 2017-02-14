@@ -3,7 +3,6 @@ theme: jekyll-theme-architect
 title: [Simple Java Project]
 description: [Dummy test project]
 
-download: [http://www.oracle.com]
 
 show_downloads: false
 
