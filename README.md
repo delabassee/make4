@@ -19,4 +19,5 @@ Site files are stored in the **gh-pages** branch.
 
 See the Publilc Draft [here](http://oracle.com).
 
+-> **{{ site.collections.my_collection.foo }}**
 
