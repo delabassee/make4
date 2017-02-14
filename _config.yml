@@ -7,7 +7,7 @@ description: [Dummy test project]
 show_downloads: false
 
 links:
-  download: http://glassfish.org/download
+  download: https://glassfish.java.net/download.html
   mailinglist: http://groups.io
   doc: 
 
