@@ -21,5 +21,5 @@ See the Publilc Draft [here](http://oracle.com).
 
 -> **{{ site.links.a }}**
 
--> **{{ site.links.b }}**
+[Link]({{ site.links.download }})
 
