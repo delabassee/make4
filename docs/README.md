@@ -1,12 +1,3 @@
-## Welcome...
+## SJP - Simple Java Project
 
-blabla
-
-### bullet
-
-blabla
-
-
-# H1
-## H2
-### H3
+SJP is a dummy project used as a site mockup
