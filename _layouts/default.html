@@ -39,6 +39,10 @@
 
         <aside id="sidebar">
 
+          {% if site.links.source %}
+             <h2><a href="{{ site.links.source }}"><p>Sources</p></a></h2>
+          {% endif %}
+          
           {% if site.links.download %}
              <h2><a href="{{ site.links.download }}"><p>Download</p></a></h2>
           {% endif %}
@@ -52,11 +56,11 @@
           {% endif %}
 
           
-          <h2>
+          <!--h2>
           <a href="{{ site.github.zip_url }}">
             Source code
           </a>
-          </h2>
+          </h2-->
 
 
           <h2>
