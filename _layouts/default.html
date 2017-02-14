@@ -40,26 +40,24 @@
         <aside id="sidebar">
 
           {% if site.links.download %}
-          <a href="{{ site.links.download }}"><p>Dynamic download!!!!</p></a>
+             <h2><a href="{{ site.links.download }}"><p>Download</p></a></h2>
           {% endif %}
+
+          {% if site.links.issuetracker %}
+             <h2><a href="{{ site.links.issuetracker }}"><p>Issue Tracker</p></a></h2>
+          {% endif %}
+
+          {% if site.links.mailinglist %}
+             <h2><a href="{{ site.links.mailinglist }}"><p>Mailing List</p></a></h2>
+          {% endif %}
+
           
-          <h2>
-          <a href="{{ site.github.zip_url }}">
-            Download
-          </a>
-          </h2>
-            
           <h2>
           <a href="{{ site.github.zip_url }}">
             Source code
           </a>
           </h2>
 
-          <h2>
-          <a href="{{ site.github.zip_url }}">
-            Mailing list
-          </a>
-          </h2>
 
           <h2>
           <a href="{{ site.github.zip_url }}">
