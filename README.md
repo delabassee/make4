@@ -5,14 +5,14 @@ This project is sponsored by [Oracle](http://oracle.com)
 
 Site files are stored in the **gh-pages** branch.
 
-gh-pages branch
-
 # News
 
-## sub news 1 ##
+## Jan 6th, 2017 - Mojarra 1.2.8-219 released ## 
 
-blablabl
+[Release Notes](http://oracle.com) - [Download](http://oracle.com)
 
-## sub news 2 ##
+## Feb 8th, 2016 - Mojarra 2.2.18-19 released ##
 
-blablabl
+[Release Notes](http://oracle.com) - [Download](http://oracle.com)
+
+
