@@ -10,4 +10,5 @@ links:
   download: https://glassfish.java.net/download.html
   mailinglist: https://java.net/projects/glassfish/lists/users/archive
   issuetracker: https://java.net/jira/browse/GLASSFISH
+  source: http://github.com/jersey/jersey
 
