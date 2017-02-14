@@ -6,3 +6,7 @@ description: [Dummy test project]
 
 show_downloads: false
 
+collections:
+  my_collection:
+    foo: bar
+
