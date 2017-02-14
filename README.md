@@ -1,9 +1,6 @@
 # SJP
 
-2 linners blurb about SJP...
-This project is sponsored by [Oracle](http://oracle.com)
-
-Site files are stored in the **gh-pages** branch.
+**2 linners blurb about SJP... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequa**
 
 # News
 
