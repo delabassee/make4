@@ -1,7 +1,9 @@
 # SJP
 
-2 linners blurb about SJP... based on **Java SE 9**. 
+2 linners blurb about SJP...
 This project is sponsored by [Oracle](http://oracle.com)
+
+Site files are stored in the **gh-pages** branch.
 
 gh-pages branch
 
