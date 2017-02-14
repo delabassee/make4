@@ -16,7 +16,3 @@
 
 See the Publilc Draft [here](http://oracle.com).
 
--> **{{ site.links.a }}**
-
-[Link]({{ site.links.download }})
-
