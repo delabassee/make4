@@ -3,13 +3,14 @@
 SJP Blurb lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
 
 ```java
-	public static int sjp(int[] list) {
-		assert list != null && list.length > 0 : "failed precondition";
-		for(int i = 1; i < list.length; i++) {	
-		...
-		}
-		return indexOfMin;
+// usage example
+public static int sjp(int[] list) {
+	assert list != null && list.length > 0 : "failed test";
+	for(int i = 1; i < list.length; i++) {	
+	...
 	}
+	return indexOfMin;
+}
 ```
 
 # News
