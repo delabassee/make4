@@ -51,6 +51,15 @@ aside#sidebar {
   font-weight: 100;
 }
 
+#main-content h2 {
+  margin-bottom: 8px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-weight: 100;
+  color: #474747;
+  text-indent: 4px;
+}
+
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
@@ -62,7 +71,7 @@ aside#sidebar {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Open Sans, 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/ddheader-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
