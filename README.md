@@ -1,18 +1,13 @@
 # SJP
 
-**Simple Java blurb... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.**
+SJP Blurb lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
 
-```Java
-	public static int sjp(int[] list)
-	{	assert list != null && list.length > 0 : "failed precondition";
-
-		int indexOfMin = 0;
-		for(int i = 1; i < list.length; i++)
-		{	if(list[i] < list[indexOfMin])
-			{	indexOfMin = i;
-			}
+```java
+	public static int sjp(int[] list) {
+		assert list != null && list.length > 0 : "failed precondition";
+		for(int i = 1; i < list.length; i++) {	
+		...
 		}
-
 		return indexOfMin;
 	}
 ```
