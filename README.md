@@ -1,6 +1,6 @@
 # SJP
 
-SJP Blurb lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
+Sample java Project (SJP) is a basic mockup and here's its blurb lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisi ut aliquip.
 
 ```java
 // usage example
