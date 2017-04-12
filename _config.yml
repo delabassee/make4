@@ -3,13 +3,12 @@ theme: jekyll-theme-architect
 title: [GlassFish]
 description: [Java EE Reference Implementation]
 
-
 show_downloads: false
 
 links:
   download: https://glassfish.java.net/download.html
   mailinglist: https://java.net/projects/glassfish/lists/users/archive
   issuetracker: https://java.net/jira/browse/GLASSFISH
-  source: http://github.com/jersey/jersey
+  source: https://java.net/projects/glassfish/sources/svn/show/trunk/main
   license: https://glassfish.java.net/license.html
 
