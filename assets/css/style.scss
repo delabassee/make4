@@ -73,15 +73,15 @@ aside#sidebar {
   padding-right: 0.3em;
   margin-left: -0.9em;
   //color: #9ddcff;
-  color: #E5E5E5;
+  color: #EFEFEF;
   content: ">";
-  font-weight: 100;
+  font-weight: 400;
 }
 
 #main-content h2 {
   margin-bottom: 8px;
-  font-family: Helvetica, Arial, serif;
-  font-size: 22px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 20px;
   font-weight: 100;
   color: #474747;
   text-indent: 4px;
@@ -91,15 +91,15 @@ aside#sidebar {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: ">>";
-  color: #E5E5E5;
-  font-weight: 100;
+  color: #EFEFEF;
+  font-weight: 400;
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 30px;
-  font-family: Helvetica, Arial, serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, serif;
   background: url(../images/ddheader-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #275da1;
+  border-bottom: solid 1px #225ca1;
 }
 
