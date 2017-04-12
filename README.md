@@ -14,7 +14,7 @@ All the {{site.title}} assets has been moved from Java.net to a new location.
 
 ## April 10th, 2017 - __JAX-RS PATCH support__ (client API) ##
 
-PATCH support has been added to JAX-RS API 2.1 in ms06, see [here](https://java.net/projects/jax-rs-spec/lists/users/archive/2017-04/message/40).
+PATCH support has been added to JAX-RS API 2.1 in milestone 6, see [here](https://java.net/projects/jax-rs-spec/lists/users/archive/2017-04/message/40).
 
 ```java
 /**
