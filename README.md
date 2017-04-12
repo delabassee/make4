@@ -4,11 +4,11 @@
 
 # Latest News
 
-## April 1st, 2017 - Java.net migration ##
+## April 1st, 2017 - Java.net migration! ##
 
 All the {{site.title}} assets has been moved from Java.net to a new location.
 
-## April 10th, 2017 - PATCH support ##
+## April 10th, 2017 - JAX-RS PATCH support (client API) ##
 
 PATCH support has been added to JAX-RS API 2.1 in ms06, see [here](https://java.net/projects/jax-rs-spec/lists/users/archive/2017-04/message/40).
 
