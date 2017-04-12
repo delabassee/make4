@@ -1,7 +1,8 @@
 # About
 
 {{site.title}} Server is the open source Java EE Reference Implementation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisi ut aliquip.
-
+  
+  
 # Latest News
 
 ## April 1st, 2017 - Java.net migration! ##
