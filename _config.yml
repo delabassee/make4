@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 
-title: [Sample Java Project]
-description: [The simplest sample]
+title: [GlassFish]
+description: [Java EE Reference Implementation]
 
 
 show_downloads: false
