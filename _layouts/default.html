@@ -52,6 +52,8 @@
 
           {% if site.links.issuetracker %}
              <h2><a href="{{ site.links.issuetracker }}"><p>Issue Tracker</p></a></h2>
+          {% else %}
+            <h2><a href="{{"issues_url"}}"><p>Issue Tracker</p></a></h2>            
           {% endif %}
 
           {% if site.links.mailinglist %}
